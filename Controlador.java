@@ -1,6 +1,7 @@
 package com.aula06;
 
 public interface Controlador {
+    //Métodos abstratos
     public abstract void ligar();
     public abstract void desligar();
     public abstract void abrirMenu();
